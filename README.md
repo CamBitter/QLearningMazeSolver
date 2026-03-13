@@ -1,5 +1,5 @@
 # QLearningMazeSolver
-Utilizes Q-Learning neural network to find the most efficient path through a maze.
+Utilizes Q-Learning to find the most efficient path through a maze.
 
 # To Use
 
